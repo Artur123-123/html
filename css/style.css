@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.class {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornflowerblue;
+}
+
+.tresc {
+    font-size: 30%;
+}
